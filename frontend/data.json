@@ -1,0 +1,44 @@
+{
+    "categories": [
+      {
+        "title": "Анатомія серця",
+        "body": "Анатомія серця вивчає будову серця, включаючи його камери, клапани, судини та м'язові структури. Це основа для розуміння функціонування серцево-судинної системи.",
+        "image": "https://media.istockphoto.com/id/625147262/uk/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%96-%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%B5-%D1%81%D0%B5%D1%80%D1%86%D0%B5-%D1%96%D0%B7%D0%BE%D0%BB%D1%8C%D0%BE%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BC%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D0%B9-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD-%D1%83-%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8.jpg?s=2048x2048&w=is&k=20&c=dn9eWCpXJz9eTPzC5VqgWD4DB4m3ppeP8kDtIEY9WtI="
+      },
+      {
+        "title": "Фізіологія серця",
+        "body": "Фізіологія серця досліджує механізми роботи серця, такі як серцевий цикл, проведення електричних імпульсів та регуляція серцевого викиду.",
+        "image": "https://media.istockphoto.com/id/1410459569/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D1%96%D1%8F-%D1%81%D0%B5%D1%80%D1%86%D1%8F-%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8-%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BC%D0%B8%D1%82%D0%BE%D0%BC%D1%83-%D0%BC%D0%B5%D0%B4%D0%B8%D1%87%D0%BD%D0%BE%D0%BC%D1%83-%D1%84%D0%BE%D0%BD%D1%96-3d-%D1%96%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F.jpg?s=2048x2048&w=is&k=20&c=Mp30t10pNLvaKAVQPdA5sXiuTzkmevoxEmBmIW3hfSs="
+      },
+      {
+        "title": "Фармакологія серця",
+        "body": "Фармакологія серця охоплює ліки, які впливають на серцево-судинну систему, такі як антиаритмічні засоби, антигіпертензивні препарати та антикоагулянти.",
+        "image": "https://media.istockphoto.com/id/1465073112/uk/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%B8%D0%BD%D1%96-%D0%BA%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%94%D1%80%D1%96-%D0%BD%D0%B0-%D1%81%D1%83%D1%87%D0%B0%D1%81%D0%BD%D1%96%D0%B9-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%BD%D1%96%D0%B9-%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D1%86%D1%96-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81-%D0%B2%D0%B8%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%B0-%D1%82%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BE%D0%BA-%D1%96.jpg?s=2048x2048&w=is&k=20&c=mkejFRYVvk2gAc77gnWwebh5on3cG9KylRyKQw0hSm4="
+      },
+      {
+        "title": "ЕКГ (Електрокардіографія)",
+        "body": "ЕКГ — це метод діагностики, який дозволяє оцінити електричну активність серця. Він використовується для виявлення аритмій, ішемії та інших патологій.",
+        "image": "https://media.istockphoto.com/id/1383851086/uk/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%96-%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F/%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9-%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA-%D0%BB%D1%96%D0%BD%D1%96%D1%97-%D1%81%D0%B5%D1%80%D1%86%D0%B5%D0%B1%D0%B8%D1%82%D1%82%D1%8F-%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80-%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B8-%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D1%83-%D0%BD%D0%B0-%D0%B1%D1%96%D0%BB%D0%BE%D0%BC%D1%83-%D1%82%D0%BB%D1%96-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0.jpg?s=2048x2048&w=is&k=20&c=wpsIV1I6ZK3Y6DoYS00uk79bB3Ydp6VcHXlVLmqwG14="
+      },
+      {
+        "title": "ЕхоКГ (Ехокардіографія)",
+        "body": "ЕхоКГ — це ультразвукове дослідження серця, яке дозволяє оцінити його структуру, функцію та рухливість клапанів.",
+        "image": "https://media.istockphoto.com/id/1139755627/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B5%D1%85%D0%BE%D0%BA%D0%B3-%D0%BE%D0%B1%D1%81%D1%82%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BA%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B0%D1%86%D1%96%D1%94%D0%BD%D1%82%D0%B0-%D0%BD%D0%B0-%D0%B2%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D1%86%D1%96-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BD%D1%96%D0%BC%D0%B0%D1%86%D1%96%D1%97.jpg?s=2048x2048&w=is&k=20&c=2CmGLkU5bDdvm7vt_piCR4tCmnP0ZcCcb5cmwrkKVAA="
+      },
+      {
+        "title": "Хвороби серця",
+        "body": "Хвороби серця включають ішемічну хворобу серця, серцеву недостатність, артеріальну гіпертензію та інші патології, які впливають на серцево-судинну систему.",
+        "image": "https://media.istockphoto.com/id/877267224/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B0-%D1%89%D0%BE-%D1%82%D0%BE%D1%80%D0%BA%D0%B0%D1%94%D1%82%D1%8C%D1%81%D1%8F-%D1%81%D0%B2%D0%BE%D0%B3%D0%BE-%D1%81%D0%B5%D1%80%D1%86%D1%8F-%D0%B7-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D1%8E-%D1%80%D0%BE%D0%B4%D0%B7%D0%B8%D0%BD%D0%BA%D0%BE%D1%8E-%D1%81%D0%B5%D1%80%D1%86%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D1%83-%D1%81%D0%B5%D1%80%D1%86%D0%B5%D0%B2%D0%BE%D1%97-%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%96.jpg?s=2048x2048&w=is&k=20&c=oxE5BBtC4L1l40K16VQVA5R-YDEjkQlUlJJpp4Sj7KI="
+      },
+      {
+        "title": "Інтервенційна кардіологія",
+        "body": "Інтервенційна кардіологія займається мінімально інвазивними методами лікування, такими як ангіопластика, стентування коронарних артерій та інші процедури.",
+        "image": "https://media.istockphoto.com/id/2148880404/uk/%D1%84%D0%BE%D1%82%D0%BE/%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%B0-%D0%BA%D0%B0%D1%80%D0%B4%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F-%D0%BB%D1%96%D0%BA%D0%B0%D1%80-%D1%85%D1%96%D1%80%D1%83%D1%80%D0%B3-%D0%BD%D0%B0-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%97-%D1%81%D1%82%D0%B5%D0%BD%D1%82-%D1%96-%D0%BA%D0%B0%D1%82%D0%B5%D1%82%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D1%96%D0%BC%D0%BF%D0%BB%D0%B0%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%97-%D0%B2.jpg?s=2048x2048&w=is&k=20&c=TceETt_c7C6srNN4-jBh_LjqdvHRCP_5QfRCT4RrU7Y="
+      },
+      {
+        "title": "Кардіохірургія",
+        "body": "Кардіохірургія включає хірургічні втручання на серці, такі як аортокоронарне шунтування, заміна клапанів та лікування вроджених вад серця.",
+        "image": "https://media.istockphoto.com/id/539281383/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B4%D0%B8%D1%82%D1%8F%D1%87%D0%B0-%D1%85%D1%96%D1%80%D1%83%D1%80%D0%B3%D1%96%D1%8F-%D1%81%D0%B5%D1%80%D1%86%D1%8F-%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%B8%D0%BC-%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC.jpg?s=2048x2048&w=is&k=20&c=TGT_qnpRWMPRXn7U-OMrKL5ZQ0ZfLEV0MCVIBM7RqTw="
+      }
+    ]
+  }
