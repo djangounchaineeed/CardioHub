@@ -19,6 +19,9 @@ const Navbar = () => {
         <NavLink to='/saved-posts' className=' hover:text-gray-700  text-black transition duration-300'>
           Збережені
         </NavLink>
+        <NavLink to='/add-post' className=' hover:text-gray-700  text-black transition duration-300'>
+          Створити
+        </NavLink>
       </div>
 
       {/* Кнопка входу */}
